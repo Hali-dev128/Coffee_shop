@@ -16,8 +16,6 @@
     --trans: 150ms ease-in-out;
 }
 
-* { outline: 1px solid red !important; }
-
 html {
     scroll-behavior: smooth;
     scroll-padding-top: 68px;
@@ -38,7 +36,7 @@ body, ::-webkit-scrollbar-track {
 
 body, html {
     font-family: var(--font-mono);
-    /*overflow-x: clip;*/
+    overflow-x: clip;
     color: var(--text);
 }
 
