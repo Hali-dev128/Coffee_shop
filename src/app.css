@@ -16,6 +16,8 @@
     --trans: 150ms ease-in-out;
 }
 
+* { outline: 1px solid red !important; }
+
 html {
     scroll-behavior: smooth;
     scroll-padding-top: 68px;
