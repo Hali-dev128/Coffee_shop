@@ -38,7 +38,7 @@ body, ::-webkit-scrollbar-track {
 
 body, html {
     font-family: var(--font-mono);
-    overflow-x: clip;
+    /*overflow-x: clip;*/
     color: var(--text);
 }
 
